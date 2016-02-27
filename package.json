@@ -1,6 +1,6 @@
 {
-    "name": "progress"
-  , "version": "1.1.8"
+    "name": "progress-with-fix"
+  , "version": "1.1.9"
   , "description": "Flexible ascii progress bar"
   , "keywords": ["cli", "progress"]
   , "author": "TJ Holowaychuk <tj@vision-media.ca>"
@@ -13,10 +13,14 @@
           "name": "Jordan Scales"
         , "email": "scalesjordan@gmail.com"
       }
+    , {
+          "name": "Mathieu Schroeter"
+        , "email": "mathieu@schroetersa.ch"
+      }
   ]
   , "dependencies": { "ansi-regex": "^2.0.0" }
   , "main": "index"
   , "engines": { "node": ">=0.4.0" }
-  , "repository": "git://github.com/visionmedia/node-progress"
+  , "repository": "git://github.com/Skywalker13/node-progress-with-fix"
   , "license": "MIT"
 }
