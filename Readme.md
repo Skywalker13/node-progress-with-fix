@@ -1,3 +1,16 @@
+
+# Fork of [node-progress](https://github.com/tj/node-progress)
+
+It fixes a bug with ANSI colors in format.
+
+```sh
+$ npm install progress-with-fix
+```
+
+See [pull request](https://github.com/tj/node-progress/pull/102). Nobody seems maintaining the official module.
+
+---
+
 Flexible ascii progress bar.
 
 ## Installation
